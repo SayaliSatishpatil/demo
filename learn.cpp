@@ -10,7 +10,7 @@ cout<<vec.first<<endl<<vec.second<<endl;
 cout<<vec.first<<endl<<vec.second<<endl;
 cout<<vec.first<<endl<<vec.second<<endl;
 cout<<vec.first<<endl<<vec.second<<endl;
-cout<<vec.first<<endl<<vec.second<<endl;
+cout<<vec.first<<endl<<klonflict<<endl;
 
 
 
